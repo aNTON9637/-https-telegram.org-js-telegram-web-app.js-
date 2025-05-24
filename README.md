@@ -1,2 +1,24 @@
-# -https-telegram.org-js-telegram-web-app.js-
-Telegram Mini App with form
+# Telegram Mini App
+
+Простое мини-приложение для Telegram бота с формой для ввода данных.
+
+## Описание
+
+Это мини-приложение позволяет пользователям:
+- Вводить своё имя
+- Отправлять сообщения
+- Взаимодействовать с Telegram ботом
+
+## Технологии
+
+- HTML
+- CSS
+- JavaScript
+- Telegram Web App API
+
+## Установка
+
+1. Установите зависимости:
+```bash
+pip install -r requirements.txt
+```
